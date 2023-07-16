@@ -16,4 +16,4 @@ Orange
 Red
 yellow
 
-tested issues repo
+tested issues repository
