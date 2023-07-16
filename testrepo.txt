@@ -12,7 +12,7 @@ Voilet
 Indigo
 Blue
 Green
-Orange
+CHECKED issue 
 Red
 yellow
 
